@@ -8,6 +8,6 @@
   - CSS 외부 링크 🛴
   - 특수 효과
 - 깃으로 관리 🌝
+- 깃허브 페이지 사용해서 배포(Deploy)함
 
-구글링크
-[Google](https://google.com)
+[배포](https://jbkim08.github.io/ImageGallery/)
